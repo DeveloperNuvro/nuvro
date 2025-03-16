@@ -12,7 +12,7 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:5000/api/v1', // Adjust based on your environment
+        url: 'https://nuvro-saas.onrender.com/api/v1', // Adjust based on your environment
       },
     ],
   },
